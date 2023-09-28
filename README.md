@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nishith Upadhyay
 ========================================================================================================================================
 
-Software Engineer. Data Scientist. Footballer. Cricketer. (enough bragged).
+Software Engineer. Full Stack Engineer. Footballer. Cricketer. (enough bragged).
 ---------------------------------------------------------------------------
 
 I'm a Software Engineer intern currently working at Tech Holding,Ahmedabad.
