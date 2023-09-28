@@ -6,7 +6,7 @@ Software Engineer. Full Stack Engineer. Footballer. Cricketer. (enough bragged).
 
 I'm a Software Engineer intern currently working at Tech Holding,Ahmedabad.
 
-* 🌍  I'm based in Junagadh, India
+* 🌍  I'm based in Ahmedabad, India
 * ✉️  You can contact me at [nishith.upadhya@gmail.com](mailto:nishith.upadhya@gmail.com)
 * 🧠  I'm learning React JS and Node JS
 * 🤝  I'm open to collaborating on Full Stack Applications and Data Science projects
