@@ -12,6 +12,8 @@ I'm a Software Engineer intern currently working at Tech Holding,Ahmedabad.
 * 🤝  I'm open to collaborating on Full Stack Applications and Data Science projects
 * ⚡  Getting better everyday.
 
+Note: Visit Repositories Tab to checkout my latest projects
+
 ### Skills
 
 
